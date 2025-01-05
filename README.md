@@ -8,7 +8,7 @@ To implement  SISO Shift Register using verilog and validating their functionali
 
 Quartus prime
 
-**THEORY**
+**THEORY:**
 
 **SISO shift Register**
 
@@ -61,7 +61,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **TIMING DIAGRAMS FOR SISO Shift Register:**
 
-![image](https://github.com/user-attachments/assets/e01514bd-d229-4955-b47f-f8f351dea8e2)
+![image](https://github.com/user-attachments/assets/410ed4d7-5711-4f6e-b60c-8f962ab362d4)
+
 
 
 **RESULT:**
@@ -70,3 +71,5 @@ Thus SISO Shiftregister is implemented using verilog and their fuctionally using
 functional table is validated.
 
 DEVELOPED BY : K DHANUSRI POOJA
+
+REGISTER NUMBER: 24011393
